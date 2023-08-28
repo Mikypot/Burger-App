@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Burger-App/static/css/main.e6c0ec98.css",
-    "main.js": "/Burger-App/static/js/main.7ab46df4.js",
+    "main.js": "/Burger-App/static/js/main.c7a1b14e.js",
     "static/media/Hamburger.png": "/Burger-App/static/media/Hamburger.35ad261df1992756fd00.png",
     "static/media/shop4.png": "/Burger-App/static/media/shop4.9ee7eb9b658e6480c77b.png",
     "static/media/shop7.png": "/Burger-App/static/media/shop7.0f17c6414015a43778ab.png",
@@ -23,10 +23,10 @@
     "static/media/slick.woff": "/Burger-App/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Burger-App/index.html",
     "main.e6c0ec98.css.map": "/Burger-App/static/css/main.e6c0ec98.css.map",
-    "main.7ab46df4.js.map": "/Burger-App/static/js/main.7ab46df4.js.map"
+    "main.c7a1b14e.js.map": "/Burger-App/static/js/main.c7a1b14e.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c0ec98.css",
-    "static/js/main.7ab46df4.js"
+    "static/js/main.c7a1b14e.js"
   ]
 }
