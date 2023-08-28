@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Burger-App/static/css/main.f46567b0.css",
+    "main.js": "/Burger-App/static/js/main.a7746d59.js",
+    "static/media/Hamburger.png": "/Burger-App/static/media/Hamburger.35ad261df1992756fd00.png",
+    "static/media/shop4.png": "/Burger-App/static/media/shop4.9ee7eb9b658e6480c77b.png",
+    "static/media/shop7.png": "/Burger-App/static/media/shop7.0f17c6414015a43778ab.png",
+    "static/media/shop3.png": "/Burger-App/static/media/shop3.fa320de00fdf2b0edafd.png",
+    "static/media/shop2.png": "/Burger-App/static/media/shop2.ef04343fffc8a0dddeb3.png",
+    "static/media/shop1.png": "/Burger-App/static/media/shop1.76090140e7ce9677200f.png",
+    "static/media/shop5.png": "/Burger-App/static/media/shop5.ab388e0b8b09e3fdd73b.png",
+    "static/media/background.png": "/Burger-App/static/media/background.bef8f78524739e48c163.png",
+    "static/media/shop6.png": "/Burger-App/static/media/shop6.f727429269db99a02e59.png",
+    "static/media/category-1.png": "/Burger-App/static/media/category-1.bcfd83b7315f9d10ad11.png",
+    "static/media/category-3.png": "/Burger-App/static/media/category-3.946f46b2ee2c2f015a67.png",
+    "static/media/category-5.png": "/Burger-App/static/media/category-5.4f30111fdd8831bba60f.png",
+    "static/media/category-4.png": "/Burger-App/static/media/category-4.604b5dc047f8c7eecdc1.png",
+    "static/media/category-6.png": "/Burger-App/static/media/category-6.3a094119e4aff3fc755b.png",
+    "static/media/category-2.png": "/Burger-App/static/media/category-2.ef2b895f19d9eb8574ff.png",
+    "static/media/slick.svg": "/Burger-App/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Burger-App/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Burger-App/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Burger-App/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Burger-App/index.html",
+    "main.f46567b0.css.map": "/Burger-App/static/css/main.f46567b0.css.map",
+    "main.a7746d59.js.map": "/Burger-App/static/js/main.a7746d59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f46567b0.css",
+    "static/js/main.a7746d59.js"
+  ]
+}
